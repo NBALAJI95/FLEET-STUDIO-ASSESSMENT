@@ -1,0 +1,165 @@
+{
+"url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/compare/test...main",
+"html_url": "https://github.com/NBALAJI95/starwars-universe-app/compare/test...main",
+"permalink_url": "https://github.com/NBALAJI95/starwars-universe-app/compare/NBALAJI95:904e417...NBALAJI95:9256ec8",
+"diff_url": "https://github.com/NBALAJI95/starwars-universe-app/compare/test...main.diff",
+"patch_url": "https://github.com/NBALAJI95/starwars-universe-app/compare/test...main.patch",
+"base_commit": {
+"sha": "904e417c4beb6ba6fb4b77f9135f08f4d97c2b5d",
+"node_id": "C_kwDOHUtsy9oAKDkwNGU0MTdjNGJlYjZiYTZmYjRiNzdmOTEzNWYwOGY0ZDk3YzJiNWQ",
+"commit": {
+"author": {
+"name": "Balaji Natarajan",
+"email": "balaji.natarajan.7@gmail.com",
+"date": "2023-08-23T06:03:19Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2023-08-23T06:03:19Z"
+},
+"message": "Update README.md",
+"tree": {
+"sha": "eb3b221477794b5643bfcf9c4b247e95ddcf016d",
+"url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/git/trees/eb3b221477794b5643bfcf9c4b247e95ddcf016d"
+},
+"url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/git/commits/904e417c4beb6ba6fb4b77f9135f08f4d97c2b5d",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJk5aEnCRBK7hj4Ov3rIwAAocwIAASxV6qc+U80xPykggqq/SEQ\nsR1VBLcQNqBtqN7y2J/lnkNWNQPnnL3O9NPtGgv+q0WPfhTcjoaFOF8KRReUr7Qx\nQbHRxgB6m4VYoDc96V75WR3OrnZq1pXLMUMvV5HLaTGPkcCcnEhcu8EDkZTKdudA\nZD/KogZ9GnQ9DQWLp4jQmmcjlkl3pi9q2tjrjSjBEDDbbNR6GZ/loiYuxVS3tFKS\n1Qj4AIYViCqppeC2fUhMfWPClvPQIZA2YWgRK9VV5j7XZ5qgmiwy7rPPc1B0k8EJ\noqYk8dKsVmcvPfuqXBc9qnprfpH2rUxj6wK+gc6ZAROCTbP8t+d/9h9ywt/UQG0=\n=pYzC\n-----END PGP SIGNATURE-----\n",
+"payload": "tree eb3b221477794b5643bfcf9c4b247e95ddcf016d\nparent 9256ec8780a8a65f32433ff05989b5ac10915ed0\nauthor Balaji Natarajan <balaji.natarajan.7@gmail.com> 1692770599 +0530\ncommitter GitHub <noreply@github.com> 1692770599 +0530\n\nUpdate README.md"
+}
+},
+"url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/commits/904e417c4beb6ba6fb4b77f9135f08f4d97c2b5d",
+"html_url": "https://github.com/NBALAJI95/starwars-universe-app/commit/904e417c4beb6ba6fb4b77f9135f08f4d97c2b5d",
+"comments_url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/commits/904e417c4beb6ba6fb4b77f9135f08f4d97c2b5d/comments",
+"author": {
+"login": "NBALAJI95",
+"id": 21211581,
+"node_id": "MDQ6VXNlcjIxMjExNTgx",
+"avatar_url": "https://avatars.githubusercontent.com/u/21211581?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/NBALAJI95",
+"html_url": "https://github.com/NBALAJI95",
+"followers_url": "https://api.github.com/users/NBALAJI95/followers",
+"following_url": "https://api.github.com/users/NBALAJI95/following{/other_user}",
+"gists_url": "https://api.github.com/users/NBALAJI95/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/NBALAJI95/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/NBALAJI95/subscriptions",
+"organizations_url": "https://api.github.com/users/NBALAJI95/orgs",
+"repos_url": "https://api.github.com/users/NBALAJI95/repos",
+"events_url": "https://api.github.com/users/NBALAJI95/events{/privacy}",
+"received_events_url": "https://api.github.com/users/NBALAJI95/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "9256ec8780a8a65f32433ff05989b5ac10915ed0",
+"url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/commits/9256ec8780a8a65f32433ff05989b5ac10915ed0",
+"html_url": "https://github.com/NBALAJI95/starwars-universe-app/commit/9256ec8780a8a65f32433ff05989b5ac10915ed0"
+}
+]
+},
+"merge_base_commit": {
+"sha": "9256ec8780a8a65f32433ff05989b5ac10915ed0",
+"node_id": "C_kwDOHUtsy9oAKDkyNTZlYzg3ODBhOGE2NWYzMjQzM2ZmMDU5ODliNWFjMTA5MTVlZDA",
+"commit": {
+"author": {
+"name": "Balaji Natarajan",
+"email": "balaji.natarajan.7@gmail.com",
+"date": "2022-05-12T11:31:37Z"
+},
+"committer": {
+"name": "Balaji Natarajan",
+"email": "balaji.natarajan.7@gmail.com",
+"date": "2022-05-12T11:31:37Z"
+},
+"message": "assessment - star wars",
+"tree": {
+"sha": "60785383eb5b2ad24dd79eb05204ec8ef9ef57e9",
+"url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/git/trees/60785383eb5b2ad24dd79eb05204ec8ef9ef57e9"
+},
+"url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/git/commits/9256ec8780a8a65f32433ff05989b5ac10915ed0",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/commits/9256ec8780a8a65f32433ff05989b5ac10915ed0",
+"html_url": "https://github.com/NBALAJI95/starwars-universe-app/commit/9256ec8780a8a65f32433ff05989b5ac10915ed0",
+"comments_url": "https://api.github.com/repos/NBALAJI95/starwars-universe-app/commits/9256ec8780a8a65f32433ff05989b5ac10915ed0/comments",
+"author": {
+"login": "NBALAJI95",
+"id": 21211581,
+"node_id": "MDQ6VXNlcjIxMjExNTgx",
+"avatar_url": "https://avatars.githubusercontent.com/u/21211581?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/NBALAJI95",
+"html_url": "https://github.com/NBALAJI95",
+"followers_url": "https://api.github.com/users/NBALAJI95/followers",
+"following_url": "https://api.github.com/users/NBALAJI95/following{/other_user}",
+"gists_url": "https://api.github.com/users/NBALAJI95/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/NBALAJI95/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/NBALAJI95/subscriptions",
+"organizations_url": "https://api.github.com/users/NBALAJI95/orgs",
+"repos_url": "https://api.github.com/users/NBALAJI95/repos",
+"events_url": "https://api.github.com/users/NBALAJI95/events{/privacy}",
+"received_events_url": "https://api.github.com/users/NBALAJI95/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "NBALAJI95",
+"id": 21211581,
+"node_id": "MDQ6VXNlcjIxMjExNTgx",
+"avatar_url": "https://avatars.githubusercontent.com/u/21211581?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/NBALAJI95",
+"html_url": "https://github.com/NBALAJI95",
+"followers_url": "https://api.github.com/users/NBALAJI95/followers",
+"following_url": "https://api.github.com/users/NBALAJI95/following{/other_user}",
+"gists_url": "https://api.github.com/users/NBALAJI95/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/NBALAJI95/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/NBALAJI95/subscriptions",
+"organizations_url": "https://api.github.com/users/NBALAJI95/orgs",
+"repos_url": "https://api.github.com/users/NBALAJI95/repos",
+"events_url": "https://api.github.com/users/NBALAJI95/events{/privacy}",
+"received_events_url": "https://api.github.com/users/NBALAJI95/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": []
+},
+"status": "behind",
+"ahead_by": 0,
+"behind_by": 1,
+"total_commits": 0,
+"commits": [],
+"files": []
+}
